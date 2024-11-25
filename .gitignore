@@ -1,2 +1,6 @@
 .env
+.google-cookie
 virt
+raw-downloads
+sorted-downloads
+test.py
